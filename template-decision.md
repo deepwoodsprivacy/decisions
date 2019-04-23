@@ -1,3 +1,10 @@
+<!--
+This template is for general purpose decisions, and is based on Farnam Street's Creating a Decision Journal:
+    https://fs.blog/2014/02/decision-journal/
+    https://www.dejournal.co/
+
+-->
+
 # Decision No:
 
 ## Datetime:
